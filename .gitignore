@@ -1,0 +1,8 @@
+# Files
+*.pdf
+*.zip
+*.rar
+*.txt
+
+# Folders
+PetImages/
